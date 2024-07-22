@@ -1,0 +1,12 @@
+1. touch name.txt
+2. mv name.txt rename.txt (mv is adual command - it can be used to move files into directories and also to rename files)
+3. cp rename.txt copy.txt
+4. mkdir questions
+5. cd questions
+6. touch first.txt
+7. touch second.txt
+8. cd ..
+8b. cp -r questions questions_copy
+9. -r is called a flag, it is used to copy directories
+10. rm -rf questions
+10b. rm -rf questions_copy

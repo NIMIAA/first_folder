@@ -1,1 +1,1 @@
-mv is a dual command - it is used to move files into folders and also to rename files. -r is called a flag, it is used to copy a directory
+
